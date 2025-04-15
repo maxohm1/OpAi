@@ -1,7 +1,5 @@
 package max.ohm.opai.data
 
-//package com.ahmedapps.geminichatbot.data
-
 import android.graphics.Bitmap
 import com.google.ai.client.generativeai.GenerativeModel
 import com.google.ai.client.generativeai.type.ResponseStoppedException
